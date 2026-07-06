@@ -352,7 +352,7 @@ Create a `.env` file in the project root (or follow your project structure) usin
 
 <p align="center">
 
-<img src="./screenshots/chat-overview.png" width="95%">
+<img src="./screenshots/homepage.png" width="95%">
 
 </p>
 
