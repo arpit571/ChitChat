@@ -2,6 +2,9 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
+   "description": "Frontend for ChitChat built with React, Vite, Tailwind CSS, and DaisyUI.",
+  "author": "Arpit Upadhyay",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
